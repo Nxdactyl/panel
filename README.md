@@ -1,4 +1,4 @@
-[![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)
+[![NXDactyl Logo](./public/assets/svgs/pterodactyl.svg)](https://github.com/Nxdactyl/panel)
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/pterodactyl/panel/ci.yaml?label=Tests&style=for-the-badge&branch=1.0-develop)
 ![Discord](https://img.shields.io/discord/122900397965705216?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
@@ -40,7 +40,7 @@ I would like to extend my sincere thanks to the following sponsors for helping f
 
 ### Supported Games
 
-Pterodactyl supports a wide variety of games by utilizing Docker containers to isolate each instance. This gives
+NXDactyl supports a wide variety of games by utilizing Docker containers to isolate each instance. This gives
 you the power to run game servers without bloating machines with a host of additional dependencies.
 
 Some of our core supported games include:
