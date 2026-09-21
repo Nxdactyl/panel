@@ -6,7 +6,7 @@ return [
     |--------------------------------------------------------------------------
     | Application Version
     |--------------------------------------------------------------------------
-    | This value is set when creating a Pterodactyl release. You should not
+    | This value is set when creating an NXDactyl release. You should not
     | change this value if you are not maintaining your own internal versions.
     */
 
@@ -23,7 +23,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Pterodactyl'),
+    'name' => env('APP_NAME', 'NXDactyl'),
 
     /*
     |--------------------------------------------------------------------------
@@ -138,9 +138,9 @@ return [
     | Exception Reporter Configuration
     |--------------------------------------------------------------------------
     |
-    | If you're encountering weird behavior with the Panel and no exceptions
+    | If you're encountering weird behavior with the NXDactyl panel and no exceptions
     | are being logged try changing the environment variable below to be true.
-    | This will override the default "don't report" behavior of the Panel and log
+    | This will override the default "don't report" behavior of the NXDactyl panel and log
     | all exceptions. This will be quite noisy.
     |
     */
